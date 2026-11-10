@@ -1,5 +1,3 @@
-# Churn_Analysis_and_Customer-Intelligence-Python
-
 # OTT Customer Churn Analysis & Customer Intelligence
 
 ## Project Overview
